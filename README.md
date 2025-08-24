@@ -45,5 +45,5 @@ Results are written to `runs/last_run.json` and a CSV for quick charts.
 
 ---
 
-**Author**: Tarun (prepared with ChatGPT).  
+**Author**: Tarun.  
 **Disclaimer**: Not affiliated with OpenAI. See OpenAI docs for latest capabilities and pricing.
